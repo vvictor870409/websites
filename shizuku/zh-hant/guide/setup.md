@@ -162,3 +162,5 @@ adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh
 ### 透過 root 啟動：無法開機啟動
 
 請允許 Shizuku 在背景執行。
+
+adb devices
